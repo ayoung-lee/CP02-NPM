@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ayoung-lee/CP02-NPM/issues"
   },
-  "homepage": "https://github.com/ayoung-lee/CP02-NPM#readme"
+  "homepage": "https://github.com/ayoung-lee/CP02-NPM#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
 }
